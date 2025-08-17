@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h>
 int sub(int no1,int no2)
 {
 	int ans=0;
@@ -14,4 +14,5 @@ int main()
 	c=sub(a,b);
 	printf("%d\n",c);
 	return 0;
+
 }
