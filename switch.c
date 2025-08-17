@@ -1,4 +1,4 @@
-#include<stdio.h>
+ #include<stdio.h> 
 int main()
 
 {
@@ -20,4 +20,5 @@ int main()
 	  printf("wrong choice...\n");
     }
 	return 0;
+
 }
