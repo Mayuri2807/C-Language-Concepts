@@ -29,7 +29,4 @@ int main()
     return 0;
 }
 
-//      int Multiplication(int No1, int No2)
 
-
-//      int (*fptr) (int , int);
