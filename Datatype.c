@@ -13,4 +13,3 @@ int main()
     return 0;
 }
 
-// ch is a variable of type character initialised with the value 'H'
