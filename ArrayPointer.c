@@ -8,7 +8,7 @@ int main()
 
     int *q = &(Arr[2]);
 
-    int *x = &(Arr[0]);
+    int *x = &(Arr[0]); 
 
     printf("%d\n",*p); // 10
     printf("%d\n",*q); // 30
